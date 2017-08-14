@@ -1,0 +1,26 @@
+{
+  "name": "rpbot",
+  "version": "1.0.0",
+  "description": "//placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.1",
+    "discord.js": "^11.1.0",
+    "fast-levenshtein": "^2.0.6",
+    "komada": "^0.19.6",
+    "mysql": "^2.13.0",
+    "node-schedule": "^1.2.3",
+    "node-strings": "^1.0.2",
+    "npm-git-install": "^0.3.0",
+    "opusscript": "0.0.3",
+    "random-hex": "^1.0.2",
+    "snekfetch": "^3.2.4",
+    "trim": "0.0.1",
+    "ytdl-core": "^0.14.4"
+  }
+}
